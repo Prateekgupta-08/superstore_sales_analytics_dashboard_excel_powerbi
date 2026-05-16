@@ -157,3 +157,5 @@ global-superstore-analysis/
 ## Author
 
 Built as part of a data analytics portfolio project, demonstrating end-to-end Power BI development from raw data ingestion and Power Query ETL through to a multi-page interactive dashboard built for business decision-making.
+
+https://github.com/Prateekgupta-08/Retail-Sales-Analytics-Dashboard/blob/main/Business_Use_Case_Superstore.docx
