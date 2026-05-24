@@ -27,5 +27,10 @@ A global retail business was operating across 147 countries and 3 product catego
 
 <img width="383" height="400" alt="Screenshot 2026-05-16 080546" src="https://github.com/user-attachments/assets/da06471e-1518-4162-bcbb-4b22e7b0d095" />
 
+> 📬 *Feel free to connect or reach out if you'd like to discuss this project or explore collaboration opportunities!
+- Prateek Gupta
+- Email : prateekgupta545@gmail.com
+- Phone : +91-8074780272
+
 
 
