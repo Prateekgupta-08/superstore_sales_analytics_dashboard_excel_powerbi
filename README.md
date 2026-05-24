@@ -17,6 +17,7 @@ A global retail business was operating across 147 countries and 3 product catego
 -	Africa & Canada: high profit ratio despite low volume — expansion opportunity
 - Critical orders frequently shipped Standard Class — fulfilment misalignment
 - Corporate segment delivers higher margin than Consumer
+- Identified loss-making product sub-categories hidden behind positive revenue figures and flagged shipping priority misalignment using Power BI, directly informing pricing and operations strategy across a 147-country retail dataset
 
 ## Tech Stack
 -	Power BI Desktop (4-page report, cross-filter interactions, drill-through)
