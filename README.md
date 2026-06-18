@@ -1,7 +1,7 @@
 # Global Superstore Sales Analytics Dashboard
 > Power BI | Power Query ETL | DAX | Retail Analytics
 
-A 4-page interactive Power BI dashboard built on 51,290 retail transactions across 147 countries. The project covers full ETL in Power Query, DAX measure development, and a star schema data model — surfacing insights on product profitability, geographic performance, customer segmentation, and shipping efficiency that were invisible in raw spreadsheet data.
+An interactive Power BI dashboard built on 51,290 retail transactions across 147 countries. The project covers full ETL in Power Query, DAX measure development, and a star schema data model — surfacing insights on product profitability, geographic performance, customer segmentation, and shipping efficiency that were invisible in raw spreadsheet data.
 
 ## Problem Statement
 A global retail business was operating across 147 countries and 3 product categories (Technology, Furniture, Office Supplies), generating 51,290 transactions over 4 years. Despite this volume of data, leadership had no reliable way to:
